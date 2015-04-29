@@ -1,0 +1,7 @@
+== 1.0.0
+
+* Major change
+  * Starting with debian:squeeze
+  * Listing precise gem requirements
+
+
