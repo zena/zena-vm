@@ -1,0 +1,10 @@
+https://coreos.com/docs/launching-containers/building/getting-started-with-docker/
+
+Data should be in a volume
+https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
+
+Logs should be in a... volume
+https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
+
+Compose
+http://blog.carbonfive.com/2015/03/17/docker-rails-docker-compose-together-in-your-development-workflow/

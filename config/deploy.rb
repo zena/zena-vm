@@ -5,7 +5,7 @@ set :app_type,              :passenger
 
 # You need to give the public key from the server to the git repository if the application is not public
 set :scm,                   'git'
-set :repository,            'git@github.com:YOUR_PROJECT/APPLICATION.git'
+set :repository,            '/root/myapp'
 set :branch,                'master'
 
 # Uncomment if you are using rvm on the remote server
